@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "kernel_xiaomi_armani",
+    "target_path": "kernel/xiaomi/armani"
+  },
+  {
+    "repository": "vendor_xiaomi_armani",
+    "target_path": "vendor/xiaomi/armani"
+  }
+]
